@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FrontednMentor-social-proof/static/css/main.fe47befc.css",
+    "main.js": "/FrontednMentor-social-proof/static/js/main.d74d231d.js",
+    "static/js/787.3600acdb.chunk.js": "/FrontednMentor-social-proof/static/js/787.3600acdb.chunk.js",
+    "index.html": "/FrontednMentor-social-proof/index.html",
+    "main.fe47befc.css.map": "/FrontednMentor-social-proof/static/css/main.fe47befc.css.map",
+    "main.d74d231d.js.map": "/FrontednMentor-social-proof/static/js/main.d74d231d.js.map",
+    "787.3600acdb.chunk.js.map": "/FrontednMentor-social-proof/static/js/787.3600acdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe47befc.css",
+    "static/js/main.d74d231d.js"
+  ]
+}

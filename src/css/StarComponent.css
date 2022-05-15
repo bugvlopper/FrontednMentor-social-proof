@@ -1,0 +1,23 @@
+.rate-container{
+    display: flex;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 10px;
+    width: 400px;
+    padding: 1rem;
+}
+.rate-container p{
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+}
+.star-container img{
+    margin-right: .5rem;
+}
+.star-container{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+@media only screen and (max-width: 460px) {
+    .rate-container{
+      width: 350px;
+    }
+}

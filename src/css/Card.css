@@ -1,0 +1,33 @@
+.card{
+    background-color: hsl(300, 43%, 22%);
+    padding: 2.1rem;
+    border-radius: 10px;
+    max-width: 350px;
+}
+.buyer-cert{
+    color: hsl(333, 80%, 67%);
+}
+.name{
+    color: hsl(300, 24%, 96%);
+    font-weight: 500;
+}
+.comment{
+    color: hsl(300, 24%, 96%);
+    margin-top: 1.5rem;
+    line-height: 1.1rem;
+    font-size: 1rem;
+}
+.avatar-info{
+    display: flex;
+    line-height: 1.2rem;
+}
+.avatar-info img{
+    border-radius: 50px;
+    height: 40px;
+}
+.avatar-info div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 1rem;
+}

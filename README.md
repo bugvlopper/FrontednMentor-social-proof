@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/bugvlopper/FrontednMentor-social-proof.git](https://github.com/bugvlopper/FrontednMentor-social-proof.git)
-- Live Site URL: [https://bugvlopper.github.io/FrontednMentor-social-proof.git](https://bugvlopper.github.io/FrontednMentor-social-proof.git)
+- Live Site URL: [https://bugvlopper.github.io/FrontednMentor-social-proof](https://bugvlopper.github.io/FrontednMentor-social-proof)
 
 ## My process
 
